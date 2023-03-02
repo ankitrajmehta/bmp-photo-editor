@@ -1,6 +1,6 @@
 # bmp-photo-editor
 
-#How-to-use
+# How-to-use
 after compiling, takes command line argument:
 "$ ./filter -g images/yard.bmp out.bmp" (for mac)
 

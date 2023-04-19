@@ -1,4 +1,6 @@
 # bmp-photo-editor
+ONLY WORKS WITH PHOTOS IN BMP FORMAT
+
 
 # How-to-use
 after compiling, takes command line argument:

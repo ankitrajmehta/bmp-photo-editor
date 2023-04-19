@@ -2,9 +2,10 @@
 
 # How-to-use
 after compiling, takes command line argument:
-"$ ./filter -g images/yard.bmp out.bmp" (for mac)
+"$ ./filter -[filter-title] images/yard.bmp out.bmp" (for mac)
 
--g = grayscale
--b = blur
--e = edges
--r = reflect
+### Filter-title:
+1. -g = grayscale
+2. -b = blur
+3. -e = edges
+4. -r = reflect
